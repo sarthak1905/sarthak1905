@@ -12,9 +12,9 @@
 ### What I work with
 
 - Python 🐍
-- C++ ➕
-- HTML/CSS/JavaScript/Bootstrap/jQuery 🎨
-- Django/Flask 🔢
+- C/C++ ➕
+- HTML /CSS /JavaScript /Bootstrap /jQuery 🎨
+- Django /Flask 🔢
 - APIs 🌉
 - Pygame 🎮
 
