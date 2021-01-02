@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello World🌎 , Sarthak here! 😺
+#### 🚀 Backend developer 🚀
 
-<!--
-**sarthak1905/sarthak1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a Backend Developer intern at SKaaS Technology Solutions
+- 🌱 I’m currently learning API development and database management
+- 👯 I’m looking to collaborate on anything related to the lovely Python langaugae🐍
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/sarthak-saxena-b3a0001b8/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarthak.saxena1905@gmail.com)](mailto:sarthak.saxena1905@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a huge FRIENDS fan!
 
-Here are some ideas to get you started:
+### What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 🐍
+- C++ ➕
+- HTML/CSS/JavaScript/Bootstrap/jQuery 🎨
+- Django/Flask 🔢
+- APIs 🌉
+- Pygame 🎮
+
+### My GitHub Stats
+![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak1905&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
