@@ -1,7 +1,7 @@
 ## Hello World🌎 , Sarthak here! 😺
 #### 🚀 Backend developer 🚀
 
-- 🔭 I’m currently working as a Backend Developer intern at SKaaS Technology Solutions
+- 🔭 I’m currently interning as a Backend Developer at SKaaS Technology Solutions
 - 🌱 I’m currently learning API development and database management
 - 👯 I’m looking to collaborate on anything related to the lovely Python langaugae🐍
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/sarthak-saxena-b3a0001b8/) 
