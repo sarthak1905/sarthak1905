@@ -1,9 +1,9 @@
 ## Hello World🌎 , Sarthak here! 😺
 ### 🚀 Backend developer 🚀
 
-- 🔭 I’ve recently worked as an intern in the field of Python Web Development at SKaaS Technology Solutions, Bangalore, India
-- 🌱 I’m currently learning API development and database management
-- 👯 I’m looking to collaborate on anything related to the lovely Python language🐍
+- 🔭 I’m currently working as an SDE intern at Increff 
+- 🌱 I’m currently learning J2EE development with Spring
+- 👯 I’m looking to collaborate on anything related to the lovely Python language 🐍
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/sarthak-saxena-b3a0001b8/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarthak.saxena1905@gmail.com)](mailto:sarthak.saxena1905@gmail.com)
 - 😄 Pronouns: He/Him
